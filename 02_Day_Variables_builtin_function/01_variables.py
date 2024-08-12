@@ -25,10 +25,11 @@ name, surname, alias, edad = "Brayan", "Velez", "Nando", 26
 print(" Mi nombre es:", name, "\n", "Mi apellido es:", surname, "\n", "Mi alias es:", alias, "\n", "Mi edad es:", edad)
 
 
-
+# Inputs
+print("Holaaa, por favor ingresa tus datos:")
 first_name = input("Cual es tu nombre: ")
 age = input("Cual es tu edad: ")
 
-print("Hola", first_name, "bienvenido, tu edad es:", str(age))
+print(f"Hola {first_name} bienvenido, tu edad es: {age} años.")
 
 

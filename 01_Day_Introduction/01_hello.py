@@ -1,3 +1,5 @@
+# Día 1: 30 días de programación en python
+
 # Esto es un comentario
 # Nuestro primer comentario en Python
 
