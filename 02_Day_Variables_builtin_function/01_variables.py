@@ -1,5 +1,6 @@
-# Variables
+# Día 2: 30 días de programación en python
 
+# Variables
 my_string_variable = 'My string variable'
 print(my_string_variable)
 
@@ -24,12 +25,9 @@ print(len(my_string_variable)) # Len imprime la cantidad de caracteres que hay e
 name, surname, alias, edad = "Brayan", "Velez", "Nando", 26
 print(" Mi nombre es:", name, "\n", "Mi apellido es:", surname, "\n", "Mi alias es:", alias, "\n", "Mi edad es:", edad)
 
-
 # Inputs
 print("Holaaa, por favor ingresa tus datos:")
 first_name = input("Cual es tu nombre: ")
 age = input("Cual es tu edad: ")
-
 print(f"Hola {first_name} bienvenido, tu edad es: {age} años.")
-
 

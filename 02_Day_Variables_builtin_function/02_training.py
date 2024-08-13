@@ -2,6 +2,8 @@
 
 # EJERCICIOS - ENTRENAMIENTO !! 💪🏻
 
+#💻 Ejercicios - Día 2
+
 """
 Ejercicios: Nivel 1
 
@@ -155,7 +157,7 @@ radio_circulo = 30
 print(f"Radio circulo: {radio_circulo}")
 
 # 5.1. Calcule el área de un círculo y asigne el valor a un nombre de variable de area_of_circle ✔️
-PI = 3.1416
+PI = 3.14
 area_of_circle = PI * (radio_circulo ** 2)
 print(F"Area circulo: {area_of_circle}")
 
