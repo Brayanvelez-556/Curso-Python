@@ -37,7 +37,7 @@ Ejercicios:
     5 1 5 25 125
 '''
 
-# SOLUCION NIVEL 1 😁✌️
+# SOLUCION 😁✌️
 
 # 1. Declara tu edad como variable entera ✔️
 age = 26
