@@ -28,6 +28,6 @@ print(" Mi nombre es:", name, "\n", "Mi apellido es:", surname, "\n", "Mi alias 
 # Inputs
 print("Holaaa, por favor ingresa tus datos:")
 first_name = input("Cual es tu nombre: ")
-age = input("Cual es tu edad: ")
+age = int(input("Cual es tu edad: "))
 print(f"Hola {first_name} bienvenido, tu edad es: {age} años.")
 

@@ -63,7 +63,7 @@ print(lenguage_slice)
 
 # Reverse
 
-reversed_lenguage = lenguage[::-1]
+reversed_lenguage = lenguage[::-1] # Convertir cadena al reves
 print(reversed_lenguage)
 
 # Funciones
@@ -72,6 +72,7 @@ print(lenguage.capitalize()) # Primera letra en mayuscula
 print(lenguage.upper()) # Convierte la cadena en MAYUSCULA
 print(lenguage.count("o")) # Cuenta cuantas veces esta el caracter en la cadena
 print(lenguage.isnumeric()) # Verifica si el contenido de la cadena es un numero
+print("10".isnumeric()) # Verifica si el contenido de la cadena es un numero
 print(lenguage.lower()) # Convierte la cadena en minuscula
 print(lenguage.upper().isupper()) # Convierte la cadena en MAYUSCULA y despues verifica con isupper si es Mayuscula
 print(lenguage.startswith("Py")) # Verifica si la cadena empieza con los carecteres introducidos, tiene en cuenta mayusculas!
