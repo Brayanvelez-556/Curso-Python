@@ -51,8 +51,8 @@ Ejercicios: Nivel 2
 6. Elimine la tupla food_staff_tp por completo ✔️
 7. Compruebe si un elemento existe en tupla: ✔️
 
-    7.1. Comprueba si 'Estonia' es un país nórdico
-    7.1. Comprueba si 'Islandia' es un país nórdico
+    7.1 Comprueba si 'Estonia' es un país nórdico ✔️
+    7.2 Comprueba si 'Islandia' es un país nórdico ✔️
     
     nordic_countries = ('Denmark', 'Finland','Iceland', 'Norway', 'Sweden')
 
